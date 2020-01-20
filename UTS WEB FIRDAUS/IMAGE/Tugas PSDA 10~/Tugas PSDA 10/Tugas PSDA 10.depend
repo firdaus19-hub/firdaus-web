@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574179410 source:g:\semester 3\struc dat\tugas psda 10\main.c
+	"header.h"
+
+1574179418 g:\semester 3\struc dat\tugas psda 10\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1574179606 source:g:\semester 3\struc dat\tugas psda 10\source.c
+	"header.h"
+
